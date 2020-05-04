@@ -1,13 +1,5 @@
 <Type Name="PjDocExportType" FullName="Microsoft.Office.Interop.MSProject.PjDocExportType">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="18eb8e1198bb068532ab07698ee4e3e7012c4e59" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655472" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjDocExportType" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="18eb8e1198bb068532ab07698ee4e3e7012c4e59" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655472" /></Metadata><TypeSignature Language="C#" Value="public enum PjDocExportType" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjDocExportType extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjDocExportType" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjDocExportType" />

@@ -1,13 +1,5 @@
 <Type Name="PjSpellingField" FullName="Microsoft.Office.Interop.MSProject.PjSpellingField">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="8532442b9d46a6c448e409e0abd138b5d844bc8e" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655257" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjSpellingField" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="8532442b9d46a6c448e409e0abd138b5d844bc8e" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655257" /></Metadata><TypeSignature Language="C#" Value="public enum PjSpellingField" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjSpellingField extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjSpellingField" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjSpellingField" />

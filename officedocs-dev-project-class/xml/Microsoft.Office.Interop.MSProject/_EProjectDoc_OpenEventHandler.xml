@@ -1,13 +1,5 @@
 <Type Name="_EProjectDoc_OpenEventHandler" FullName="Microsoft.Office.Interop.MSProject._EProjectDoc_OpenEventHandler">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="dbfbe4db4098976f269907d0af720079750d4ec3" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655391" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public delegate void _EProjectDoc_OpenEventHandler(Project pj);" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="dbfbe4db4098976f269907d0af720079750d4ec3" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655391" /></Metadata><TypeSignature Language="C#" Value="public delegate void _EProjectDoc_OpenEventHandler(Project pj);" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed _EProjectDoc_OpenEventHandler extends System.MulticastDelegate" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject._EProjectDoc_OpenEventHandler" />
   <TypeSignature Language="VB.NET" Value="Public Delegate Sub _EProjectDoc_OpenEventHandler(pj As Project)" />

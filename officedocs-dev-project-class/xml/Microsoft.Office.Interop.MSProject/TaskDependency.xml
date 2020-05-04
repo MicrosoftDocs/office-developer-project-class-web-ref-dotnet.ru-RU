@@ -1,13 +1,5 @@
 <Type Name="TaskDependency" FullName="Microsoft.Office.Interop.MSProject.TaskDependency">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="0305da30d5343b3d9797ee22ef87b6116571e69c" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655040" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface TaskDependency" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="0305da30d5343b3d9797ee22ef87b6116571e69c" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655040" /></Metadata><TypeSignature Language="C#" Value="public interface TaskDependency" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract TaskDependency" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.TaskDependency" />
   <TypeSignature Language="VB.NET" Value="Public Interface TaskDependency" />

@@ -1,13 +1,5 @@
 <Type Name="WorkWeekDay" FullName="Microsoft.Office.Interop.MSProject.WorkWeekDay">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="af8f0da4756531fde6c99cb645c7958c93322011" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654864" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface WorkWeekDay" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="af8f0da4756531fde6c99cb645c7958c93322011" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654864" /></Metadata><TypeSignature Language="C#" Value="public interface WorkWeekDay" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract WorkWeekDay" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.WorkWeekDay" />
   <TypeSignature Language="VB.NET" Value="Public Interface WorkWeekDay" />

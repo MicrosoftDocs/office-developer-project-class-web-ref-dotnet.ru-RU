@@ -1,13 +1,5 @@
 <Type Name="SplitPart" FullName="Microsoft.Office.Interop.MSProject.SplitPart">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="2e9cd2b65660478b67ee5caaa3ad7615b97cd07c" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654813" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface SplitPart" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="2e9cd2b65660478b67ee5caaa3ad7615b97cd07c" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654813" /></Metadata><TypeSignature Language="C#" Value="public interface SplitPart" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract SplitPart" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.SplitPart" />
   <TypeSignature Language="VB.NET" Value="Public Interface SplitPart" />

@@ -1,13 +1,5 @@
 <Type Name="CostRateTables" FullName="Microsoft.Office.Interop.MSProject.CostRateTables">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="4fed3f9ae40cc38b515df9088a85971248be76af" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655092" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface CostRateTables : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="4fed3f9ae40cc38b515df9088a85971248be76af" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655092" /></Metadata><TypeSignature Language="C#" Value="public interface CostRateTables : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract CostRateTables implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.CostRateTables" />
   <TypeSignature Language="VB.NET" Value="Public Interface CostRateTables&#xA;Implements IEnumerable" />

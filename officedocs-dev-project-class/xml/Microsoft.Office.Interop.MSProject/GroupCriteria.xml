@@ -1,13 +1,5 @@
 <Type Name="GroupCriteria" FullName="Microsoft.Office.Interop.MSProject.GroupCriteria">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="a73dbdb51d72f7e9b9e9e71648d44d46a53cab1f" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655014" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface GroupCriteria : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="a73dbdb51d72f7e9b9e9e71648d44d46a53cab1f" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655014" /></Metadata><TypeSignature Language="C#" Value="public interface GroupCriteria : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract GroupCriteria implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.GroupCriteria" />
   <TypeSignature Language="VB.NET" Value="Public Interface GroupCriteria&#xA;Implements IEnumerable" />

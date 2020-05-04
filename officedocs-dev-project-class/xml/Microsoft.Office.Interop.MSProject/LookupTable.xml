@@ -1,13 +1,5 @@
 <Type Name="LookupTable" FullName="Microsoft.Office.Interop.MSProject.LookupTable">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="83dc3e073a4aa5471bcae4a62e5ac35ae7629d0d" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655449" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface LookupTable : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="83dc3e073a4aa5471bcae4a62e5ac35ae7629d0d" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655449" /></Metadata><TypeSignature Language="C#" Value="public interface LookupTable : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract LookupTable implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.LookupTable" />
   <TypeSignature Language="VB.NET" Value="Public Interface LookupTable&#xA;Implements IEnumerable" />

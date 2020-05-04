@@ -1,13 +1,5 @@
 <Type Name="Month" FullName="Microsoft.Office.Interop.MSProject.Month">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="e68e45b17460e3677dbe2835b646c5a888b8b13e" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655343" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Month" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="e68e45b17460e3677dbe2835b646c5a888b8b13e" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655343" /></Metadata><TypeSignature Language="C#" Value="public interface Month" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Month" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Month" />
   <TypeSignature Language="VB.NET" Value="Public Interface Month" />

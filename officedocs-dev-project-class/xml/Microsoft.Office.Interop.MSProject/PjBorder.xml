@@ -1,13 +1,5 @@
 <Type Name="PjBorder" FullName="Microsoft.Office.Interop.MSProject.PjBorder">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="d89de9b53ba2e6847ece75d1407919b643f3fa2e" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655493" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjBorder" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="d89de9b53ba2e6847ece75d1407919b643f3fa2e" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655493" /></Metadata><TypeSignature Language="C#" Value="public enum PjBorder" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjBorder extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjBorder" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjBorder" />

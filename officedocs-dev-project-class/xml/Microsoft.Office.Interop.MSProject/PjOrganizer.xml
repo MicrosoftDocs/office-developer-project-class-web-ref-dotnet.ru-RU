@@ -1,13 +1,5 @@
 <Type Name="PjOrganizer" FullName="Microsoft.Office.Interop.MSProject.PjOrganizer">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="25af8397c286ede610979bf0fdf3f240e7721c53" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655464" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjOrganizer" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="25af8397c286ede610979bf0fdf3f240e7721c53" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655464" /></Metadata><TypeSignature Language="C#" Value="public enum PjOrganizer" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjOrganizer extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjOrganizer" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjOrganizer" />

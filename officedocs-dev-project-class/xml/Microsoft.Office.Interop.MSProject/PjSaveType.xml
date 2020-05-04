@@ -1,13 +1,5 @@
 <Type Name="PjSaveType" FullName="Microsoft.Office.Interop.MSProject.PjSaveType">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="27245c37c871e194a25268fc33f692fc7df27002" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655203" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjSaveType" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="27245c37c871e194a25268fc33f692fc7df27002" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655203" /></Metadata><TypeSignature Language="C#" Value="public enum PjSaveType" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjSaveType extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjSaveType" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjSaveType" />

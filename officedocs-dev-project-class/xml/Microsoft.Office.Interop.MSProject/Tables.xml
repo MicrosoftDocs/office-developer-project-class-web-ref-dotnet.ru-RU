@@ -1,13 +1,5 @@
 <Type Name="Tables" FullName="Microsoft.Office.Interop.MSProject.Tables">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="565afdae822c535024b92733e20a40ac40570241" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655000" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Tables : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="565afdae822c535024b92733e20a40ac40570241" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655000" /></Metadata><TypeSignature Language="C#" Value="public interface Tables : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Tables implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Tables" />
   <TypeSignature Language="VB.NET" Value="Public Interface Tables&#xA;Implements IEnumerable" />

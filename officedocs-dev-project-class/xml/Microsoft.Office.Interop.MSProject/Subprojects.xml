@@ -1,13 +1,5 @@
 <Type Name="Subprojects" FullName="Microsoft.Office.Interop.MSProject.Subprojects">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="b874affe39815898c56d3c3069a511f0011f8de5" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655037" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Subprojects : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="b874affe39815898c56d3c3069a511f0011f8de5" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655037" /></Metadata><TypeSignature Language="C#" Value="public interface Subprojects : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Subprojects implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Subprojects" />
   <TypeSignature Language="VB.NET" Value="Public Interface Subprojects&#xA;Implements IEnumerable" />

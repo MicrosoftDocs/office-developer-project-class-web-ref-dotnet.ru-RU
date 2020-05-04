@@ -1,13 +1,5 @@
 <Type Name="PjResAssignOperation" FullName="Microsoft.Office.Interop.MSProject.PjResAssignOperation">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="32311ac69140f07663e03ef81bb19de2fa56a4fc" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654787" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjResAssignOperation" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="32311ac69140f07663e03ef81bb19de2fa56a4fc" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654787" /></Metadata><TypeSignature Language="C#" Value="public enum PjResAssignOperation" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjResAssignOperation extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjResAssignOperation" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjResAssignOperation" />

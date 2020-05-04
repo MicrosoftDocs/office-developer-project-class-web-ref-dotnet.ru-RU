@@ -1,13 +1,5 @@
 <Type Name="PjTextFileOrigin" FullName="Microsoft.Office.Interop.MSProject.PjTextFileOrigin">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="cfe58a86405049d00b751a007ecc8e1c1980ccc9" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655208" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjTextFileOrigin" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="cfe58a86405049d00b751a007ecc8e1c1980ccc9" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655208" /></Metadata><TypeSignature Language="C#" Value="public enum PjTextFileOrigin" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjTextFileOrigin extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjTextFileOrigin" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjTextFileOrigin" />

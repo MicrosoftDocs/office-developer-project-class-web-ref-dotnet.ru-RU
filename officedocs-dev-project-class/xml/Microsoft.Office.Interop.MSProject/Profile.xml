@@ -1,13 +1,5 @@
 <Type Name="Profile" FullName="Microsoft.Office.Interop.MSProject.Profile">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="9a17f1fee4d16042110f7697d2de7a55d2e02202" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654853" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Profile" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="9a17f1fee4d16042110f7697d2de7a55d2e02202" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654853" /></Metadata><TypeSignature Language="C#" Value="public interface Profile" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Profile" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Profile" />
   <TypeSignature Language="VB.NET" Value="Public Interface Profile" />

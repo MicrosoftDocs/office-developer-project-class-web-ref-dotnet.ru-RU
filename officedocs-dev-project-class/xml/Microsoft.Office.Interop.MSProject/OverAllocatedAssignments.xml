@@ -1,13 +1,5 @@
 <Type Name="OverAllocatedAssignments" FullName="Microsoft.Office.Interop.MSProject.OverAllocatedAssignments">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="08601ab84c11ed384d9d4e78f19e27ab6fc7d5dd" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655450" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface OverAllocatedAssignments : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="08601ab84c11ed384d9d4e78f19e27ab6fc7d5dd" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655450" /></Metadata><TypeSignature Language="C#" Value="public interface OverAllocatedAssignments : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract OverAllocatedAssignments implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.OverAllocatedAssignments" />
   <TypeSignature Language="VB.NET" Value="Public Interface OverAllocatedAssignments&#xA;Implements IEnumerable" />

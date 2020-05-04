@@ -1,13 +1,5 @@
 <Type Name="_EProjectApp2_SaveStartingToServerEventHandler" FullName="Microsoft.Office.Interop.MSProject._EProjectApp2_SaveStartingToServerEventHandler">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="c0d29509ae87a5c1e220109141d2c04b36010e16" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655008" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public delegate void _EProjectApp2_SaveStartingToServerEventHandler(string bstrName, string bstrprojGuid);" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="c0d29509ae87a5c1e220109141d2c04b36010e16" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655008" /></Metadata><TypeSignature Language="C#" Value="public delegate void _EProjectApp2_SaveStartingToServerEventHandler(string bstrName, string bstrprojGuid);" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed _EProjectApp2_SaveStartingToServerEventHandler extends System.MulticastDelegate" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject._EProjectApp2_SaveStartingToServerEventHandler" />
   <TypeSignature Language="VB.NET" Value="Public Delegate Sub _EProjectApp2_SaveStartingToServerEventHandler(bstrName As String, bstrprojGuid As String)" />

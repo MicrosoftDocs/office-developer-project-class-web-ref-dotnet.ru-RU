@@ -1,13 +1,5 @@
 <Type Name="PjExceptionType" FullName="Microsoft.Office.Interop.MSProject.PjExceptionType">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="b9f4b547dda1673e617622958ff5de55f6442a78" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655195" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjExceptionType" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="b9f4b547dda1673e617622958ff5de55f6442a78" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655195" /></Metadata><TypeSignature Language="C#" Value="public enum PjExceptionType" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjExceptionType extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjExceptionType" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjExceptionType" />

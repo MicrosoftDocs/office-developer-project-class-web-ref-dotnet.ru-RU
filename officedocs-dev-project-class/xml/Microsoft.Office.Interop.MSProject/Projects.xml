@@ -1,13 +1,5 @@
 <Type Name="Projects" FullName="Microsoft.Office.Interop.MSProject.Projects">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="5c4e638db3d2579f99ceea5b330f1b219dd9b2e0" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654859" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Projects : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="5c4e638db3d2579f99ceea5b330f1b219dd9b2e0" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654859" /></Metadata><TypeSignature Language="C#" Value="public interface Projects : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Projects implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Projects" />
   <TypeSignature Language="VB.NET" Value="Public Interface Projects&#xA;Implements IEnumerable" />

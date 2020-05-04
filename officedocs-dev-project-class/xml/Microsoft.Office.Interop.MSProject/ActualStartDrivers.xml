@@ -1,13 +1,5 @@
 <Type Name="ActualStartDrivers" FullName="Microsoft.Office.Interop.MSProject.ActualStartDrivers">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="65ec9741902c68ab7398e41bf38d5652e6f48401" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655443" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface ActualStartDrivers : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="65ec9741902c68ab7398e41bf38d5652e6f48401" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655443" /></Metadata><TypeSignature Language="C#" Value="public interface ActualStartDrivers : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract ActualStartDrivers implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.ActualStartDrivers" />
   <TypeSignature Language="VB.NET" Value="Public Interface ActualStartDrivers&#xA;Implements IEnumerable" />

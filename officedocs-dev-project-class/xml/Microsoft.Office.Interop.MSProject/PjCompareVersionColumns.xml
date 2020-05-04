@@ -1,13 +1,5 @@
 <Type Name="PjCompareVersionColumns" FullName="Microsoft.Office.Interop.MSProject.PjCompareVersionColumns">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="5313da0ee34dc22a45595aa94cee525714aa6130" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654993" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjCompareVersionColumns" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="5313da0ee34dc22a45595aa94cee525714aa6130" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654993" /></Metadata><TypeSignature Language="C#" Value="public enum PjCompareVersionColumns" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjCompareVersionColumns extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjCompareVersionColumns" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjCompareVersionColumns" />

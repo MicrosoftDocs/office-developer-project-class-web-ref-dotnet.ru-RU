@@ -1,13 +1,5 @@
 <Type Name="PjField" FullName="Microsoft.Office.Interop.MSProject.PjField">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="44ca917eb2328ec816a1eee5bd645e3f560fa471" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655270" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjField" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="44ca917eb2328ec816a1eee5bd645e3f560fa471" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655270" /></Metadata><TypeSignature Language="C#" Value="public enum PjField" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjField extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjField" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjField" />

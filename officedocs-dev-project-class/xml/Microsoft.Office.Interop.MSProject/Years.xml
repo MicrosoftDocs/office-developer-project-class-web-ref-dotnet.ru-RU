@@ -1,13 +1,5 @@
 <Type Name="Years" FullName="Microsoft.Office.Interop.MSProject.Years">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="87e08580fd41ee0ff31d950635db52042950b5b0" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655326" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Years : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="87e08580fd41ee0ff31d950635db52042950b5b0" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655326" /></Metadata><TypeSignature Language="C#" Value="public interface Years : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Years implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Years" />
   <TypeSignature Language="VB.NET" Value="Public Interface Years&#xA;Implements IEnumerable" />

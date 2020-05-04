@@ -1,13 +1,5 @@
 <Type Name="_EProjectApp2_JobStartEventHandler" FullName="Microsoft.Office.Interop.MSProject._EProjectApp2_JobStartEventHandler">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="0500e2c9d919c8ef5e088d6052100f3cf0629d01" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654807" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public delegate void _EProjectApp2_JobStartEventHandler(string bstrName, string bstrprojGuid, string bstrjobGuid, int jobType, int lResult);" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="0500e2c9d919c8ef5e088d6052100f3cf0629d01" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654807" /></Metadata><TypeSignature Language="C#" Value="public delegate void _EProjectApp2_JobStartEventHandler(string bstrName, string bstrprojGuid, string bstrjobGuid, int jobType, int lResult);" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed _EProjectApp2_JobStartEventHandler extends System.MulticastDelegate" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject._EProjectApp2_JobStartEventHandler" />
   <TypeSignature Language="VB.NET" Value="Public Delegate Sub _EProjectApp2_JobStartEventHandler(bstrName As String, bstrprojGuid As String, bstrjobGuid As String, jobType As Integer, lResult As Integer)" />

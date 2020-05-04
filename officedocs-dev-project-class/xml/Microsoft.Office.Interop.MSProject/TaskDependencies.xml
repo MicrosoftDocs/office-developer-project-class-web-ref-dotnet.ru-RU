@@ -1,13 +1,5 @@
 <Type Name="TaskDependencies" FullName="Microsoft.Office.Interop.MSProject.TaskDependencies">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="b09ce52f6da5f92b12cddffdc057842392055ec5" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655152" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface TaskDependencies : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="b09ce52f6da5f92b12cddffdc057842392055ec5" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655152" /></Metadata><TypeSignature Language="C#" Value="public interface TaskDependencies : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract TaskDependencies implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.TaskDependencies" />
   <TypeSignature Language="VB.NET" Value="Public Interface TaskDependencies&#xA;Implements IEnumerable" />

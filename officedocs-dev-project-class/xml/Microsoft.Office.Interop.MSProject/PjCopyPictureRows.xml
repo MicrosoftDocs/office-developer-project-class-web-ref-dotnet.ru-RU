@@ -1,13 +1,5 @@
 <Type Name="PjCopyPictureRows" FullName="Microsoft.Office.Interop.MSProject.PjCopyPictureRows">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="dde4b2c49699f087c4e0df1d26521bbb1e167f9a" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655183" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjCopyPictureRows" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="dde4b2c49699f087c4e0df1d26521bbb1e167f9a" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655183" /></Metadata><TypeSignature Language="C#" Value="public enum PjCopyPictureRows" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjCopyPictureRows extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjCopyPictureRows" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjCopyPictureRows" />

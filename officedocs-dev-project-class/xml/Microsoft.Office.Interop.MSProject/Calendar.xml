@@ -1,13 +1,5 @@
 <Type Name="Calendar" FullName="Microsoft.Office.Interop.MSProject.Calendar">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="2ec6976be71dd87d7166fed106eba047e4bca53a" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655279" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Calendar" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="2ec6976be71dd87d7166fed106eba047e4bca53a" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655279" /></Metadata><TypeSignature Language="C#" Value="public interface Calendar" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Calendar" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Calendar" />
   <TypeSignature Language="VB.NET" Value="Public Interface Calendar" />

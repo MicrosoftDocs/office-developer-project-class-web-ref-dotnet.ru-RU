@@ -1,13 +1,5 @@
 <Type Name="PjTaskWarnings" FullName="Microsoft.Office.Interop.MSProject.PjTaskWarnings">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="37b8669b589d3790bc9cb869cb95f0ba80644d5e" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655041" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjTaskWarnings" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="37b8669b589d3790bc9cb869cb95f0ba80644d5e" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655041" /></Metadata><TypeSignature Language="C#" Value="public enum PjTaskWarnings" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjTaskWarnings extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjTaskWarnings" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjTaskWarnings" />

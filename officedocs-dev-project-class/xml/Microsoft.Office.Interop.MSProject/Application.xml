@@ -1,13 +1,5 @@
 <Type Name="Application" FullName="Microsoft.Office.Interop.MSProject.Application">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="81f1997c1a977911f57a76bdc3d296d17b144652" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655196" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Application : Microsoft.Office.Interop.MSProject._EProjectApp2_Event, Microsoft.Office.Interop.MSProject._MSProject" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="81f1997c1a977911f57a76bdc3d296d17b144652" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655196" /></Metadata><TypeSignature Language="C#" Value="public interface Application : Microsoft.Office.Interop.MSProject._EProjectApp2_Event, Microsoft.Office.Interop.MSProject._MSProject" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Application implements class Microsoft.Office.Interop.MSProject._EProjectApp2_Event, class Microsoft.Office.Interop.MSProject._MSProject" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Application" />
   <TypeSignature Language="VB.NET" Value="Public Interface Application&#xA;Implements _EProjectApp2_Event, _MSProject" />

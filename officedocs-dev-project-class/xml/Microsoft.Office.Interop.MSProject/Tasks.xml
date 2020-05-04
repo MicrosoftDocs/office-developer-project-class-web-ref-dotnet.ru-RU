@@ -1,13 +1,5 @@
 <Type Name="Tasks" FullName="Microsoft.Office.Interop.MSProject.Tasks">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="633697ae1cb5c91d50cc5f2b28811b9a6146dbdd" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654865" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Tasks : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="633697ae1cb5c91d50cc5f2b28811b9a6146dbdd" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654865" /></Metadata><TypeSignature Language="C#" Value="public interface Tasks : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Tasks implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Tasks" />
   <TypeSignature Language="VB.NET" Value="Public Interface Tasks&#xA;Implements IEnumerable" />

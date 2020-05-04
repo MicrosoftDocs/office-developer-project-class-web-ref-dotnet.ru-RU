@@ -1,13 +1,5 @@
 <Type Name="_EProjectApp2_Event" FullName="Microsoft.Office.Interop.MSProject._EProjectApp2_Event">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="3a4e5b0fa74769f51948953f9b8899f0af3770f3" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654871" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface _EProjectApp2_Event" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="3a4e5b0fa74769f51948953f9b8899f0af3770f3" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654871" /></Metadata><TypeSignature Language="C#" Value="public interface _EProjectApp2_Event" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract _EProjectApp2_Event" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject._EProjectApp2_Event" />
   <TypeSignature Language="VB.NET" Value="Public Interface _EProjectApp2_Event" />

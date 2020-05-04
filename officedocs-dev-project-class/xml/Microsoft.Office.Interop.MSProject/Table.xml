@@ -1,13 +1,5 @@
 <Type Name="Table" FullName="Microsoft.Office.Interop.MSProject.Table">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="4d492de876560df00a2d7c13e192b26f810eb353" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655398" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Table" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="4d492de876560df00a2d7c13e192b26f810eb353" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655398" /></Metadata><TypeSignature Language="C#" Value="public interface Table" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Table" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Table" />
   <TypeSignature Language="VB.NET" Value="Public Interface Table" />

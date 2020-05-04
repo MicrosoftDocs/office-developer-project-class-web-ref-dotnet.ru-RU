@@ -1,13 +1,5 @@
 <Type Name="PayRate" FullName="Microsoft.Office.Interop.MSProject.PayRate">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="b3b21f0c3b4672c000bcffea65753c861b1b66da" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655345" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface PayRate" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="b3b21f0c3b4672c000bcffea65753c861b1b66da" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655345" /></Metadata><TypeSignature Language="C#" Value="public interface PayRate" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract PayRate" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PayRate" />
   <TypeSignature Language="VB.NET" Value="Public Interface PayRate" />

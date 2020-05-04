@@ -1,13 +1,5 @@
 <Type Name="PjPublishInformationOnSave" FullName="Microsoft.Office.Interop.MSProject.PjPublishInformationOnSave">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="4d0012563bb3e0a386695cd1245551c805a6334e" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655456" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjPublishInformationOnSave" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="4d0012563bb3e0a386695cd1245551c805a6334e" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655456" /></Metadata><TypeSignature Language="C#" Value="public enum PjPublishInformationOnSave" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjPublishInformationOnSave extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjPublishInformationOnSave" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjPublishInformationOnSave" />

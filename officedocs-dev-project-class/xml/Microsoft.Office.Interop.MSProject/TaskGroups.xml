@@ -1,13 +1,5 @@
 <Type Name="TaskGroups" FullName="Microsoft.Office.Interop.MSProject.TaskGroups">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="58683d5dab28f43011b84450afa456ebc4720c4b" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655471" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface TaskGroups : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="58683d5dab28f43011b84450afa456ebc4720c4b" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655471" /></Metadata><TypeSignature Language="C#" Value="public interface TaskGroups : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract TaskGroups implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.TaskGroups" />
   <TypeSignature Language="VB.NET" Value="Public Interface TaskGroups&#xA;Implements IEnumerable" />

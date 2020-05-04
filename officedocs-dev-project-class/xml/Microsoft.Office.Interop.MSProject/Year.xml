@@ -1,13 +1,5 @@
 <Type Name="Year" FullName="Microsoft.Office.Interop.MSProject.Year">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="665ad1f179ad8803f04820b449438bcb6cf1934f" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654857" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Year" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="665ad1f179ad8803f04820b449438bcb6cf1934f" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654857" /></Metadata><TypeSignature Language="C#" Value="public interface Year" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Year" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Year" />
   <TypeSignature Language="VB.NET" Value="Public Interface Year" />

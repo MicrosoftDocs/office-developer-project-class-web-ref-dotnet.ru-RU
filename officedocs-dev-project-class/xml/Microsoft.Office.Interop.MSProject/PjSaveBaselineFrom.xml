@@ -1,13 +1,5 @@
 <Type Name="PjSaveBaselineFrom" FullName="Microsoft.Office.Interop.MSProject.PjSaveBaselineFrom">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="e2e2e73f2caea81c025bcd50df8b12e92e36e65b" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655388" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjSaveBaselineFrom" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="e2e2e73f2caea81c025bcd50df8b12e92e36e65b" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655388" /></Metadata><TypeSignature Language="C#" Value="public enum PjSaveBaselineFrom" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjSaveBaselineFrom extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjSaveBaselineFrom" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjSaveBaselineFrom" />

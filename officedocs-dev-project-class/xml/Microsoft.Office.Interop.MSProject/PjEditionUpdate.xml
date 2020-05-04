@@ -1,13 +1,5 @@
 <Type Name="PjEditionUpdate" FullName="Microsoft.Office.Interop.MSProject.PjEditionUpdate">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="bff7f50d6acefe8c11166cd203decf06ae29c745" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655191" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjEditionUpdate" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="bff7f50d6acefe8c11166cd203decf06ae29c745" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655191" /></Metadata><TypeSignature Language="C#" Value="public enum PjEditionUpdate" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjEditionUpdate extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjEditionUpdate" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjEditionUpdate" />
