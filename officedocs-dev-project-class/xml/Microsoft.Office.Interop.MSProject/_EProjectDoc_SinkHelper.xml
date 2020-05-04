@@ -1,13 +1,5 @@
 <Type Name="_EProjectDoc_SinkHelper" FullName="Microsoft.Office.Interop.MSProject._EProjectDoc_SinkHelper">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="4495c84dc196be16147cff0068497d708f620e70" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654986" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public sealed class _EProjectDoc_SinkHelper : Microsoft.Office.Interop.MSProject._EProjectDoc" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="4495c84dc196be16147cff0068497d708f620e70" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654986" /></Metadata><TypeSignature Language="C#" Value="public sealed class _EProjectDoc_SinkHelper : Microsoft.Office.Interop.MSProject._EProjectDoc" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed _EProjectDoc_SinkHelper extends System.Object implements class Microsoft.Office.Interop.MSProject._EProjectDoc" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject._EProjectDoc_SinkHelper" />
   <TypeSignature Language="VB.NET" Value="Public NotInheritable Class _EProjectDoc_SinkHelper&#xA;Implements _EProjectDoc" />

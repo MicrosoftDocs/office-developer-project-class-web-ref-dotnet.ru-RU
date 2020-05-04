@@ -1,13 +1,5 @@
 <Type Name="View" FullName="Microsoft.Office.Interop.MSProject.View">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="a0e82fb47cb055f6bb1902d08aa07e8dd7b66f49" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654856" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface View" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="a0e82fb47cb055f6bb1902d08aa07e8dd7b66f49" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654856" /></Metadata><TypeSignature Language="C#" Value="public interface View" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract View" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.View" />
   <TypeSignature Language="VB.NET" Value="Public Interface View" />

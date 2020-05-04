@@ -1,13 +1,5 @@
 <Type Name="ShapeRange" FullName="Microsoft.Office.Interop.MSProject.ShapeRange">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="40c1a40e1d3ecceee310308829a034080152931f" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654869" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface ShapeRange : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="40c1a40e1d3ecceee310308829a034080152931f" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654869" /></Metadata><TypeSignature Language="C#" Value="public interface ShapeRange : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract ShapeRange implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.ShapeRange" />
   <TypeSignature Language="VB.NET" Value="Public Interface ShapeRange&#xA;Implements IEnumerable" />

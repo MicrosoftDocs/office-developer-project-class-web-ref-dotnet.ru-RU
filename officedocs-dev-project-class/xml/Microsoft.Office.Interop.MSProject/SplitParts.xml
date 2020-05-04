@@ -1,13 +1,5 @@
 <Type Name="SplitParts" FullName="Microsoft.Office.Interop.MSProject.SplitParts">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="eae20231438327e9dc1af5f32dc4d4a0e7a4abf9" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654797" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface SplitParts : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="eae20231438327e9dc1af5f32dc4d4a0e7a4abf9" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654797" /></Metadata><TypeSignature Language="C#" Value="public interface SplitParts : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract SplitParts implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.SplitParts" />
   <TypeSignature Language="VB.NET" Value="Public Interface SplitParts&#xA;Implements IEnumerable" />

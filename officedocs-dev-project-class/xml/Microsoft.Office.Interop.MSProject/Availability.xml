@@ -1,13 +1,5 @@
 <Type Name="Availability" FullName="Microsoft.Office.Interop.MSProject.Availability">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="dfe68163b9ad3a8517f228fb60e5f9fa8e809790" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654998" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Availability" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="dfe68163b9ad3a8517f228fb60e5f9fa8e809790" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654998" /></Metadata><TypeSignature Language="C#" Value="public interface Availability" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Availability" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Availability" />
   <TypeSignature Language="VB.NET" Value="Public Interface Availability" />

@@ -1,13 +1,5 @@
 <Type Name="Period" FullName="Microsoft.Office.Interop.MSProject.Period">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="d1e27e4191d9c4a850138d1ef4cedbc736d65d48" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655359" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Period" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="d1e27e4191d9c4a850138d1ef4cedbc736d65d48" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655359" /></Metadata><TypeSignature Language="C#" Value="public interface Period" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Period" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Period" />
   <TypeSignature Language="VB.NET" Value="Public Interface Period" />

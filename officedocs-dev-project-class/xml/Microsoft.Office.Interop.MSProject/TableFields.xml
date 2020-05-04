@@ -1,13 +1,5 @@
 <Type Name="TableFields" FullName="Microsoft.Office.Interop.MSProject.TableFields">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="fc7f06da372be70939e2d20b6c6a93185b1cfe9a" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655436" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface TableFields : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="fc7f06da372be70939e2d20b6c6a93185b1cfe9a" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655436" /></Metadata><TypeSignature Language="C#" Value="public interface TableFields : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract TableFields implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.TableFields" />
   <TypeSignature Language="VB.NET" Value="Public Interface TableFields&#xA;Implements IEnumerable" />

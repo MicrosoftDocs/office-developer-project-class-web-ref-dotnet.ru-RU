@@ -1,13 +1,5 @@
 <Type Name="Day" FullName="Microsoft.Office.Interop.MSProject.Day">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="f11b8528b139309068661b5aa090209fb7792feb" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655093" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Day" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="f11b8528b139309068661b5aa090209fb7792feb" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655093" /></Metadata><TypeSignature Language="C#" Value="public interface Day" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Day" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Day" />
   <TypeSignature Language="VB.NET" Value="Public Interface Day" />

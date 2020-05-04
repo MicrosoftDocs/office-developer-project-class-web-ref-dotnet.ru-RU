@@ -1,13 +1,5 @@
 <Type Name="PjCalculation" FullName="Microsoft.Office.Interop.MSProject.PjCalculation">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="294a4a92799eff19aa6f7e7d327b028084acf9ed" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655030" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjCalculation" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="294a4a92799eff19aa6f7e7d327b028084acf9ed" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655030" /></Metadata><TypeSignature Language="C#" Value="public enum PjCalculation" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjCalculation extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjCalculation" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjCalculation" />

@@ -1,13 +1,6 @@
+
 <Framework Name="office-project-server">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="f9342c3ebae54773a2f2958228b00f3f2fd79a5d" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654996" />
-  </Metadata>
-  <Namespace Name="Microsoft.Office.Interop.MSProject">
+  <Metadata><Meta Name="ms.openlocfilehash" Value="f9342c3ebae54773a2f2958228b00f3f2fd79a5d" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654996" /></Metadata><Namespace Name="Microsoft.Office.Interop.MSProject">
     <Type Name="Microsoft.Office.Interop.MSProject._EProjectApp" Id="T:Microsoft.Office.Interop.MSProject._EProjectApp">
       <Member Id="M:Microsoft.Office.Interop.MSProject._EProjectApp.NewProject(Microsoft.Office.Interop.MSProject.Project)" />
       <Member Id="M:Microsoft.Office.Interop.MSProject._EProjectApp.ProjectBeforeAssignmentChange(Microsoft.Office.Interop.MSProject.Assignment,Microsoft.Office.Interop.MSProject.PjAssignmentField,System.Object,System.Boolean@)" />

@@ -1,13 +1,5 @@
 <Type Name="Filters" FullName="Microsoft.Office.Interop.MSProject.Filters">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="4e3f9da9664ba8371c783187840101a4a9c74843" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654854" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Filters : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="4e3f9da9664ba8371c783187840101a4a9c74843" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654854" /></Metadata><TypeSignature Language="C#" Value="public interface Filters : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Filters implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Filters" />
   <TypeSignature Language="VB.NET" Value="Public Interface Filters&#xA;Implements IEnumerable" />

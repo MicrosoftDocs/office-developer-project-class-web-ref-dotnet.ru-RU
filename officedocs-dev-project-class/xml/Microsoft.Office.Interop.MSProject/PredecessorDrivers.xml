@@ -1,13 +1,5 @@
 <Type Name="PredecessorDrivers" FullName="Microsoft.Office.Interop.MSProject.PredecessorDrivers">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="ab0c467b6d9398f103b45e29586165bae2e720de" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655390" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface PredecessorDrivers : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="ab0c467b6d9398f103b45e29586165bae2e720de" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655390" /></Metadata><TypeSignature Language="C#" Value="public interface PredecessorDrivers : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract PredecessorDrivers implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PredecessorDrivers" />
   <TypeSignature Language="VB.NET" Value="Public Interface PredecessorDrivers&#xA;Implements IEnumerable" />

@@ -1,13 +1,5 @@
 <Type Name="Exceptions" FullName="Microsoft.Office.Interop.MSProject.Exceptions">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="9a6c4854a4afc0b8d328206649e939d5602f1fbf" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655194" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Exceptions : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="9a6c4854a4afc0b8d328206649e939d5602f1fbf" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655194" /></Metadata><TypeSignature Language="C#" Value="public interface Exceptions : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Exceptions implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Exceptions" />
   <TypeSignature Language="VB.NET" Value="Public Interface Exceptions&#xA;Implements IEnumerable" />

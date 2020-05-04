@@ -1,13 +1,5 @@
 <Type Name="PjRecalcDriverType" FullName="Microsoft.Office.Interop.MSProject.PjRecalcDriverType">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="c1789ac5cde11ae37141d2efe3bc7dbb081f29f5" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654982" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjRecalcDriverType" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="c1789ac5cde11ae37141d2efe3bc7dbb081f29f5" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654982" /></Metadata><TypeSignature Language="C#" Value="public enum PjRecalcDriverType" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjRecalcDriverType extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjRecalcDriverType" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjRecalcDriverType" />

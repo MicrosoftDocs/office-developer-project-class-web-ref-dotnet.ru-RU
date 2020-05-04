@@ -1,13 +1,5 @@
 <Type Name="Groups" FullName="Microsoft.Office.Interop.MSProject.Groups">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="6f07044563c4d85586ad1d40352d1663324c30b4" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655024" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Groups : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="6f07044563c4d85586ad1d40352d1663324c30b4" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655024" /></Metadata><TypeSignature Language="C#" Value="public interface Groups : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Groups implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Groups" />
   <TypeSignature Language="VB.NET" Value="Public Interface Groups&#xA;Implements IEnumerable" />

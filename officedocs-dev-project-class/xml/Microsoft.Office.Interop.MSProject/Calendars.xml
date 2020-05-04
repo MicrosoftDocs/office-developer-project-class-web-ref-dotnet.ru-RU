@@ -1,13 +1,5 @@
 <Type Name="Calendars" FullName="Microsoft.Office.Interop.MSProject.Calendars">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="f93c228687bf70ca5868b5e322f6d7e860168c35" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655064" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Calendars : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="f93c228687bf70ca5868b5e322f6d7e860168c35" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655064" /></Metadata><TypeSignature Language="C#" Value="public interface Calendars : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Calendars implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Calendars" />
   <TypeSignature Language="VB.NET" Value="Public Interface Calendars&#xA;Implements IEnumerable" />

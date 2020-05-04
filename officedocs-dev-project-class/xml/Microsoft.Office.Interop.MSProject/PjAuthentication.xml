@@ -1,13 +1,5 @@
 <Type Name="PjAuthentication" FullName="Microsoft.Office.Interop.MSProject.PjAuthentication">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="af1f46480b4530745f563e5b3835d9c56219d1de" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655062" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjAuthentication" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="af1f46480b4530745f563e5b3835d9c56219d1de" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655062" /></Metadata><TypeSignature Language="C#" Value="public enum PjAuthentication" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjAuthentication extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjAuthentication" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjAuthentication" />

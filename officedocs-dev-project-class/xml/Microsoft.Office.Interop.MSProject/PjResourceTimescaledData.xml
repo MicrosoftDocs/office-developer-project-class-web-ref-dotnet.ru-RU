@@ -1,13 +1,5 @@
 <Type Name="PjResourceTimescaledData" FullName="Microsoft.Office.Interop.MSProject.PjResourceTimescaledData">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="1167523f5c283ee4e807a0df5884ae2a39a185eb" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655467" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjResourceTimescaledData" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="1167523f5c283ee4e807a0df5884ae2a39a185eb" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655467" /></Metadata><TypeSignature Language="C#" Value="public enum PjResourceTimescaledData" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjResourceTimescaledData extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjResourceTimescaledData" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjResourceTimescaledData" />

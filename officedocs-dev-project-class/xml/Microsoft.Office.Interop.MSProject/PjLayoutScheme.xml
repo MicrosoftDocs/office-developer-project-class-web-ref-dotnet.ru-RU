@@ -1,13 +1,5 @@
 <Type Name="PjLayoutScheme" FullName="Microsoft.Office.Interop.MSProject.PjLayoutScheme">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="7b27aad9d6128078566e82bb6e86a72a840be18d" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655380" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjLayoutScheme" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="7b27aad9d6128078566e82bb6e86a72a840be18d" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655380" /></Metadata><TypeSignature Language="C#" Value="public enum PjLayoutScheme" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjLayoutScheme extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjLayoutScheme" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjLayoutScheme" />

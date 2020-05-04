@@ -1,13 +1,5 @@
 <Type Name="EventInfo" FullName="Microsoft.Office.Interop.MSProject.EventInfo">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="0156e671bbf37a865286b4409895bbeb2beab786" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655254" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface EventInfo" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="0156e671bbf37a865286b4409895bbeb2beab786" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655254" /></Metadata><TypeSignature Language="C#" Value="public interface EventInfo" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract EventInfo" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.EventInfo" />
   <TypeSignature Language="VB.NET" Value="Public Interface EventInfo" />

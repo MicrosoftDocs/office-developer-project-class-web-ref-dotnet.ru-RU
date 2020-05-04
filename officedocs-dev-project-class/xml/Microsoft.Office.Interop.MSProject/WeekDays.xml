@@ -1,13 +1,5 @@
 <Type Name="WeekDays" FullName="Microsoft.Office.Interop.MSProject.WeekDays">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="77159fffbca1b9de6adc58f01aa9ac51a93f6acb" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654829" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface WeekDays : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="77159fffbca1b9de6adc58f01aa9ac51a93f6acb" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654829" /></Metadata><TypeSignature Language="C#" Value="public interface WeekDays : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract WeekDays implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.WeekDays" />
   <TypeSignature Language="VB.NET" Value="Public Interface WeekDays&#xA;Implements IEnumerable" />

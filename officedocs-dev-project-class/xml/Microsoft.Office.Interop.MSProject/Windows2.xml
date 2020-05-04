@@ -1,13 +1,5 @@
 <Type Name="Windows2" FullName="Microsoft.Office.Interop.MSProject.Windows2">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="ed2e65ee5c6cc5ca5eb6c131cf1321bbcc61be18" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654844" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Windows2 : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="ed2e65ee5c6cc5ca5eb6c131cf1321bbcc61be18" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654844" /></Metadata><TypeSignature Language="C#" Value="public interface Windows2 : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Windows2 implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Windows2" />
   <TypeSignature Language="VB.NET" Value="Public Interface Windows2&#xA;Implements IEnumerable" />

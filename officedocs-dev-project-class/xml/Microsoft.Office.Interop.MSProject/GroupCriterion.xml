@@ -1,13 +1,5 @@
 <Type Name="GroupCriterion" FullName="Microsoft.Office.Interop.MSProject.GroupCriterion">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="ad688e50b3d46d91112abe80c13ef5d1a1fb0845" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655015" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface GroupCriterion" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="ad688e50b3d46d91112abe80c13ef5d1a1fb0845" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655015" /></Metadata><TypeSignature Language="C#" Value="public interface GroupCriterion" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract GroupCriterion" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.GroupCriterion" />
   <TypeSignature Language="VB.NET" Value="Public Interface GroupCriterion" />

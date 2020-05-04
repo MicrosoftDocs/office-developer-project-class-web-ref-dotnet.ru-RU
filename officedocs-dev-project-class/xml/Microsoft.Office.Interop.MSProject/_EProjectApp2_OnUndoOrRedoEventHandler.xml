@@ -1,13 +1,5 @@
 <Type Name="_EProjectApp2_OnUndoOrRedoEventHandler" FullName="Microsoft.Office.Interop.MSProject._EProjectApp2_OnUndoOrRedoEventHandler">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="e5b8f915157021405b2e14e26ffa1c08fb34f89f" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654789" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public delegate void _EProjectApp2_OnUndoOrRedoEventHandler(string bstrLabel, string bstrGUID, bool fUndo);" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="e5b8f915157021405b2e14e26ffa1c08fb34f89f" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654789" /></Metadata><TypeSignature Language="C#" Value="public delegate void _EProjectApp2_OnUndoOrRedoEventHandler(string bstrLabel, string bstrGUID, bool fUndo);" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed _EProjectApp2_OnUndoOrRedoEventHandler extends System.MulticastDelegate" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject._EProjectApp2_OnUndoOrRedoEventHandler" />
   <TypeSignature Language="VB.NET" Value="Public Delegate Sub _EProjectApp2_OnUndoOrRedoEventHandler(bstrLabel As String, bstrGUID As String, fUndo As Boolean)" />

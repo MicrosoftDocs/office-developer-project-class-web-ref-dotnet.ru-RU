@@ -1,13 +1,5 @@
 <Type Name="_EProjectDoc_BeforeCloseEventHandler" FullName="Microsoft.Office.Interop.MSProject._EProjectDoc_BeforeCloseEventHandler">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="d1e2865ede4f70c3cc4062d64c0401869388ccf5" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655509" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public delegate void _EProjectDoc_BeforeCloseEventHandler(Project pj);" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="d1e2865ede4f70c3cc4062d64c0401869388ccf5" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655509" /></Metadata><TypeSignature Language="C#" Value="public delegate void _EProjectDoc_BeforeCloseEventHandler(Project pj);" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed _EProjectDoc_BeforeCloseEventHandler extends System.MulticastDelegate" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject._EProjectDoc_BeforeCloseEventHandler" />
   <TypeSignature Language="VB.NET" Value="Public Delegate Sub _EProjectDoc_BeforeCloseEventHandler(pj As Project)" />

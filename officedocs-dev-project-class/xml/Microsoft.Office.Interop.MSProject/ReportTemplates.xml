@@ -1,13 +1,5 @@
 <Type Name="ReportTemplates" FullName="Microsoft.Office.Interop.MSProject.ReportTemplates">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="120933b1bb3c35cab00e3131b2558b40bbb07bdd" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654815" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface ReportTemplates : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="120933b1bb3c35cab00e3131b2558b40bbb07bdd" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654815" /></Metadata><TypeSignature Language="C#" Value="public interface ReportTemplates : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract ReportTemplates implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.ReportTemplates" />
   <TypeSignature Language="VB.NET" Value="Public Interface ReportTemplates&#xA;Implements IEnumerable" />

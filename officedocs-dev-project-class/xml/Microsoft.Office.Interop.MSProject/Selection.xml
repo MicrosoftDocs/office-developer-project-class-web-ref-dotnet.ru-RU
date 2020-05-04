@@ -1,13 +1,5 @@
 <Type Name="Selection" FullName="Microsoft.Office.Interop.MSProject.Selection">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="3695114f9a541fb05bd7ff28e2fb13839152a48f" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655102" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Selection" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="3695114f9a541fb05bd7ff28e2fb13839152a48f" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655102" /></Metadata><TypeSignature Language="C#" Value="public interface Selection" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Selection" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Selection" />
   <TypeSignature Language="VB.NET" Value="Public Interface Selection" />

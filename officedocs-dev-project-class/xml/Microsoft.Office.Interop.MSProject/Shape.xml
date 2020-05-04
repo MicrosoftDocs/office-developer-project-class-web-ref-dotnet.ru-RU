@@ -1,13 +1,5 @@
 <Type Name="Shape" FullName="Microsoft.Office.Interop.MSProject.Shape">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="44974847c7cdbcd9e4388341cb80d31eb2c01231" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655105" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Shape" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="44974847c7cdbcd9e4388341cb80d31eb2c01231" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655105" /></Metadata><TypeSignature Language="C#" Value="public interface Shape" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Shape" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Shape" />
   <TypeSignature Language="VB.NET" Value="Public Interface Shape" />

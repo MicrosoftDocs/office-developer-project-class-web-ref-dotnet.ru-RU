@@ -1,13 +1,5 @@
 <Type Name="_EProjectApp_ProjectBeforeTaskChangeEventHandler" FullName="Microsoft.Office.Interop.MSProject._EProjectApp_ProjectBeforeTaskChangeEventHandler">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="7b1132f88de29a9df319624971da0b7dcf1036b1" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655184" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public delegate void _EProjectApp_ProjectBeforeTaskChangeEventHandler(Task tsk, PjField Field, object NewVal, ref bool Cancel);" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="7b1132f88de29a9df319624971da0b7dcf1036b1" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655184" /></Metadata><TypeSignature Language="C#" Value="public delegate void _EProjectApp_ProjectBeforeTaskChangeEventHandler(Task tsk, PjField Field, object NewVal, ref bool Cancel);" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed _EProjectApp_ProjectBeforeTaskChangeEventHandler extends System.MulticastDelegate" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject._EProjectApp_ProjectBeforeTaskChangeEventHandler" />
   <TypeSignature Language="VB.NET" Value="Public Delegate Sub _EProjectApp_ProjectBeforeTaskChangeEventHandler(tsk As Task, Field As PjField, NewVal As Object, ByRef Cancel As Boolean)" />

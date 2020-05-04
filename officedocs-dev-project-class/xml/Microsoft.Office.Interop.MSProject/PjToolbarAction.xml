@@ -1,13 +1,5 @@
 <Type Name="PjToolbarAction" FullName="Microsoft.Office.Interop.MSProject.PjToolbarAction">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="0bd520032f0a4e8c6bb5c7c0c541602caf5e8c91" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655387" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjToolbarAction" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="0bd520032f0a4e8c6bb5c7c0c541602caf5e8c91" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655387" /></Metadata><TypeSignature Language="C#" Value="public enum PjToolbarAction" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjToolbarAction extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjToolbarAction" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjToolbarAction" />

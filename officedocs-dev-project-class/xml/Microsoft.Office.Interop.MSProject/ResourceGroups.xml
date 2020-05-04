@@ -1,13 +1,5 @@
 <Type Name="ResourceGroups" FullName="Microsoft.Office.Interop.MSProject.ResourceGroups">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="e77fef793daac922e19a0b470f14ff14321f681f" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654862" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface ResourceGroups : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="e77fef793daac922e19a0b470f14ff14321f681f" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654862" /></Metadata><TypeSignature Language="C#" Value="public interface ResourceGroups : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract ResourceGroups implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.ResourceGroups" />
   <TypeSignature Language="VB.NET" Value="Public Interface ResourceGroups&#xA;Implements IEnumerable" />

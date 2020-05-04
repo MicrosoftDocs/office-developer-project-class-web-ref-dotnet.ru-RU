@@ -1,13 +1,5 @@
 <Type Name="PjLevelSelectedOption" FullName="Microsoft.Office.Interop.MSProject.PjLevelSelectedOption">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="b2b9f55fb533311fa7b0cda3a60918139e5a816c" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655271" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjLevelSelectedOption" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="b2b9f55fb533311fa7b0cda3a60918139e5a816c" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655271" /></Metadata><TypeSignature Language="C#" Value="public enum PjLevelSelectedOption" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjLevelSelectedOption extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjLevelSelectedOption" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjLevelSelectedOption" />

@@ -1,13 +1,5 @@
 <Type Name="_EProjectApp2_ProjectBeforeSaveBaselineEventHandler" FullName="Microsoft.Office.Interop.MSProject._EProjectApp2_ProjectBeforeSaveBaselineEventHandler">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="14ee14130be14ddf480667de98a04f3379d17cfb" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654804" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public delegate void _EProjectApp2_ProjectBeforeSaveBaselineEventHandler(Project pj, bool Interim, PjBaselines bl, PjSaveBaselineFrom InterimCopy, PjSaveBaselineTo InterimInto, bool AllTasks, bool RollupToSummaryTasks, bool RollupFromSubtasks, EventInfo Info);" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="14ee14130be14ddf480667de98a04f3379d17cfb" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654804" /></Metadata><TypeSignature Language="C#" Value="public delegate void _EProjectApp2_ProjectBeforeSaveBaselineEventHandler(Project pj, bool Interim, PjBaselines bl, PjSaveBaselineFrom InterimCopy, PjSaveBaselineTo InterimInto, bool AllTasks, bool RollupToSummaryTasks, bool RollupFromSubtasks, EventInfo Info);" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed _EProjectApp2_ProjectBeforeSaveBaselineEventHandler extends System.MulticastDelegate" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject._EProjectApp2_ProjectBeforeSaveBaselineEventHandler" />
   <TypeSignature Language="VB.NET" Value="Public Delegate Sub _EProjectApp2_ProjectBeforeSaveBaselineEventHandler(pj As Project, Interim As Boolean, bl As PjBaselines, InterimCopy As PjSaveBaselineFrom, InterimInto As PjSaveBaselineTo, AllTasks As Boolean, RollupToSummaryTasks As Boolean, RollupFromSubtasks As Boolean, Info As EventInfo)" />

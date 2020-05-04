@@ -1,13 +1,5 @@
 <Type Name="_EProjectApp2_WindowBeforeViewChangeEventHandler" FullName="Microsoft.Office.Interop.MSProject._EProjectApp2_WindowBeforeViewChangeEventHandler">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="785440c46598568b3a7ce260d505e6007595a240" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655086" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public delegate void _EProjectApp2_WindowBeforeViewChangeEventHandler(Window Window, View prevView, View newView, bool projectHasViewWindow, EventInfo Info);" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="785440c46598568b3a7ce260d505e6007595a240" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655086" /></Metadata><TypeSignature Language="C#" Value="public delegate void _EProjectApp2_WindowBeforeViewChangeEventHandler(Window Window, View prevView, View newView, bool projectHasViewWindow, EventInfo Info);" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed _EProjectApp2_WindowBeforeViewChangeEventHandler extends System.MulticastDelegate" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject._EProjectApp2_WindowBeforeViewChangeEventHandler" />
   <TypeSignature Language="VB.NET" Value="Public Delegate Sub _EProjectApp2_WindowBeforeViewChangeEventHandler(Window As Window, prevView As View, newView As View, projectHasViewWindow As Boolean, Info As EventInfo)" />

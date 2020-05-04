@@ -1,13 +1,5 @@
 <Type Name="PjReportLayoutTemplateId" FullName="Microsoft.Office.Interop.MSProject.PjReportLayoutTemplateId">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="28a4f4b3a38f848febae5f7759c0eb48513abbd1" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654837" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjReportLayoutTemplateId" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="28a4f4b3a38f848febae5f7759c0eb48513abbd1" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654837" /></Metadata><TypeSignature Language="C#" Value="public enum PjReportLayoutTemplateId" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjReportLayoutTemplateId extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjReportLayoutTemplateId" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjReportLayoutTemplateId" />

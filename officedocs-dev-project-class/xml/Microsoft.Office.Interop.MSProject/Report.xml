@@ -1,13 +1,5 @@
 <Type Name="Report" FullName="Microsoft.Office.Interop.MSProject.Report">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="720e635ec1b0d2e55d0870f6f68aa4bca393fc82" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655430" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Report" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="720e635ec1b0d2e55d0870f6f68aa4bca393fc82" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655430" /></Metadata><TypeSignature Language="C#" Value="public interface Report" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Report" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Report" />
   <TypeSignature Language="VB.NET" Value="Public Interface Report" />

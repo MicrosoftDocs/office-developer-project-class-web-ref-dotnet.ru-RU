@@ -1,13 +1,5 @@
 <Type Name="_EProjectApp_ProjectBeforeSaveEventHandler" FullName="Microsoft.Office.Interop.MSProject._EProjectApp_ProjectBeforeSaveEventHandler">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="8940ff2a221abdbe20a9df1030f187049c751627" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655494" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public delegate void _EProjectApp_ProjectBeforeSaveEventHandler(Project pj, bool SaveAsUi, ref bool Cancel);" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="8940ff2a221abdbe20a9df1030f187049c751627" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655494" /></Metadata><TypeSignature Language="C#" Value="public delegate void _EProjectApp_ProjectBeforeSaveEventHandler(Project pj, bool SaveAsUi, ref bool Cancel);" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed _EProjectApp_ProjectBeforeSaveEventHandler extends System.MulticastDelegate" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject._EProjectApp_ProjectBeforeSaveEventHandler" />
   <TypeSignature Language="VB.NET" Value="Public Delegate Sub _EProjectApp_ProjectBeforeSaveEventHandler(pj As Project, SaveAsUi As Boolean, ByRef Cancel As Boolean)" />

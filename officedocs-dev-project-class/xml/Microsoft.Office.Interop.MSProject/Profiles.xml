@@ -1,13 +1,5 @@
 <Type Name="Profiles" FullName="Microsoft.Office.Interop.MSProject.Profiles">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="ce2b8932f55c0f9ad342b70aa51cab393910c8e7" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655070" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Profiles : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="ce2b8932f55c0f9ad342b70aa51cab393910c8e7" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655070" /></Metadata><TypeSignature Language="C#" Value="public interface Profiles : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Profiles implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Profiles" />
   <TypeSignature Language="VB.NET" Value="Public Interface Profiles&#xA;Implements IEnumerable" />

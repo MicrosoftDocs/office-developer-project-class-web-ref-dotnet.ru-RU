@@ -1,13 +1,5 @@
 <Type Name="Months" FullName="Microsoft.Office.Interop.MSProject.Months">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="cfccefad6726cdda871332410bf6bc43b9f9a6ff" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655111" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Months : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="cfccefad6726cdda871332410bf6bc43b9f9a6ff" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655111" /></Metadata><TypeSignature Language="C#" Value="public interface Months : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Months implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Months" />
   <TypeSignature Language="VB.NET" Value="Public Interface Months&#xA;Implements IEnumerable" />

@@ -1,13 +1,5 @@
 <Type Name="WorkWeek" FullName="Microsoft.Office.Interop.MSProject.WorkWeek">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="94a8b591da5b3b3df8ba6a92a7f2e34ffb9a7c98" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654850" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface WorkWeek" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="94a8b591da5b3b3df8ba6a92a7f2e34ffb9a7c98" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654850" /></Metadata><TypeSignature Language="C#" Value="public interface WorkWeek" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract WorkWeek" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.WorkWeek" />
   <TypeSignature Language="VB.NET" Value="Public Interface WorkWeek" />

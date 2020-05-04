@@ -1,13 +1,5 @@
 <Type Name="PjResourceGraphPattern" FullName="Microsoft.Office.Interop.MSProject.PjResourceGraphPattern">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="2bb6d39d93e2aa79b75984797d5c2ad7e30b01aa" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655454" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjResourceGraphPattern" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="2bb6d39d93e2aa79b75984797d5c2ad7e30b01aa" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655454" /></Metadata><TypeSignature Language="C#" Value="public enum PjResourceGraphPattern" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjResourceGraphPattern extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjResourceGraphPattern" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjResourceGraphPattern" />

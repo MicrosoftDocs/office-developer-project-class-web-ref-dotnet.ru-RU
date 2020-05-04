@@ -1,13 +1,5 @@
 <Type Name="PjBaselines" FullName="Microsoft.Office.Interop.MSProject.PjBaselines">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="5756c9b7e53a6725e7b04af7d4809bcf3aab332e" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655501" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjBaselines" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="5756c9b7e53a6725e7b04af7d4809bcf3aab332e" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655501" /></Metadata><TypeSignature Language="C#" Value="public enum PjBaselines" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjBaselines extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjBaselines" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjBaselines" />

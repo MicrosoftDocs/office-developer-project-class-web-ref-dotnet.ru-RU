@@ -1,13 +1,5 @@
 <Type Name="ViewsSingle" FullName="Microsoft.Office.Interop.MSProject.ViewsSingle">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="33d0b6df976018c8ad31465943611ab6935316db" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655161" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface ViewsSingle : Microsoft.Office.Interop.MSProject.Views" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="33d0b6df976018c8ad31465943611ab6935316db" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655161" /></Metadata><TypeSignature Language="C#" Value="public interface ViewsSingle : Microsoft.Office.Interop.MSProject.Views" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract ViewsSingle implements class Microsoft.Office.Interop.MSProject.Views" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.ViewsSingle" />
   <TypeSignature Language="VB.NET" Value="Public Interface ViewsSingle&#xA;Implements Views" />

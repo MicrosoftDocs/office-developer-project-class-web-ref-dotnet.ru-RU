@@ -1,13 +1,5 @@
 <Type Name="PjYesNoAutomatic" FullName="Microsoft.Office.Interop.MSProject.PjYesNoAutomatic">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="e06a8eeda81308cb03a68068c5d36d6adf3fccce" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655036" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum PjYesNoAutomatic" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="e06a8eeda81308cb03a68068c5d36d6adf3fccce" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655036" /></Metadata><TypeSignature Language="C#" Value="public enum PjYesNoAutomatic" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed PjYesNoAutomatic extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.PjYesNoAutomatic" />
   <TypeSignature Language="VB.NET" Value="Public Enum PjYesNoAutomatic" />

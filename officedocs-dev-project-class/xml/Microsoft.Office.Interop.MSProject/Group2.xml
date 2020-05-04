@@ -1,13 +1,5 @@
 <Type Name="Group2" FullName="Microsoft.Office.Interop.MSProject.Group2">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="32df70cf2ff6937ab946c42f30c0e0470401804e" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654824" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Group2" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="32df70cf2ff6937ab946c42f30c0e0470401804e" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654824" /></Metadata><TypeSignature Language="C#" Value="public interface Group2" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Group2" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Group2" />
   <TypeSignature Language="VB.NET" Value="Public Interface Group2" />

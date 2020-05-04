@@ -1,13 +1,5 @@
 <Type Name="Shapes" FullName="Microsoft.Office.Interop.MSProject.Shapes">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="0c34cb38f0be0d2164947f803e6dd452e9387faa" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655438" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Shapes : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="0c34cb38f0be0d2164947f803e6dd452e9387faa" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655438" /></Metadata><TypeSignature Language="C#" Value="public interface Shapes : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Shapes implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.Shapes" />
   <TypeSignature Language="VB.NET" Value="Public Interface Shapes&#xA;Implements IEnumerable" />

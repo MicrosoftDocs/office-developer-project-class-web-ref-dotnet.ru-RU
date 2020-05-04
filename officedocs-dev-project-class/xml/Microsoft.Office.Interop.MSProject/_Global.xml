@@ -1,13 +1,5 @@
 <Type Name="_Global" FullName="Microsoft.Office.Interop.MSProject._Global">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="9b064f0ea43eb1aaf4a7fd0fc35ff6c708407d7a" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20654916" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface _Global" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="9b064f0ea43eb1aaf4a7fd0fc35ff6c708407d7a" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20654916" /></Metadata><TypeSignature Language="C#" Value="public interface _Global" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract _Global" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject._Global" />
   <TypeSignature Language="VB.NET" Value="Public Interface _Global" />

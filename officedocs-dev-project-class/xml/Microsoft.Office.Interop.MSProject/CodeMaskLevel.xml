@@ -1,13 +1,5 @@
 <Type Name="CodeMaskLevel" FullName="Microsoft.Office.Interop.MSProject.CodeMaskLevel">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="70d1a4d72b4e24f75ab4ae4021de5bef06b401d4" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655089" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface CodeMaskLevel" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="70d1a4d72b4e24f75ab4ae4021de5bef06b401d4" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655089" /></Metadata><TypeSignature Language="C#" Value="public interface CodeMaskLevel" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract CodeMaskLevel" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.CodeMaskLevel" />
   <TypeSignature Language="VB.NET" Value="Public Interface CodeMaskLevel" />

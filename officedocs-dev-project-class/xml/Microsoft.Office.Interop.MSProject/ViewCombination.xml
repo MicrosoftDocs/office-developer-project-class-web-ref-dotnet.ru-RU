@@ -1,13 +1,5 @@
 <Type Name="ViewCombination" FullName="Microsoft.Office.Interop.MSProject.ViewCombination">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="32eec3f6086304dd85e7a28171ddeeb441b74308" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655149" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface ViewCombination : Microsoft.Office.Interop.MSProject.View" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="32eec3f6086304dd85e7a28171ddeeb441b74308" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655149" /></Metadata><TypeSignature Language="C#" Value="public interface ViewCombination : Microsoft.Office.Interop.MSProject.View" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract ViewCombination implements class Microsoft.Office.Interop.MSProject.View" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.ViewCombination" />
   <TypeSignature Language="VB.NET" Value="Public Interface ViewCombination&#xA;Implements View" />

@@ -1,13 +1,5 @@
 <Type Name="OutlineCodes" FullName="Microsoft.Office.Interop.MSProject.OutlineCodes">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="0d28537ff3c8087cc631e79940b45caa5d4ca633" />
-    <Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20655350" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface OutlineCodes : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="0d28537ff3c8087cc631e79940b45caa5d4ca633" /><Meta Name="ms.sourcegitcommit" Value="fec857fbb3ba2e7ec9eaa447385c0467b066910b" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20655350" /></Metadata><TypeSignature Language="C#" Value="public interface OutlineCodes : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract OutlineCodes implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.MSProject.OutlineCodes" />
   <TypeSignature Language="VB.NET" Value="Public Interface OutlineCodes&#xA;Implements IEnumerable" />
